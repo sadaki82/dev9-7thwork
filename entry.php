@@ -11,7 +11,7 @@
 <body>
 
 <div class="container">
-    <h1>登録フォーム</h1>
+    <h1>PHP</h1>
     <p>Webサイトの内容は<a href="./" target="_blank">こちらから</a>確認できます。</p>
     <form action="insert.php" method="post">
         <ul>
